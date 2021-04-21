@@ -77,4 +77,4 @@ REACT_APP_API_BASE_URL=http://localhost:5000
 ```   
    
 Make sure to grab the backend from   
-     [Restaurant Reservation System Backend](https://github.com/dstnmyrs99/restaurant-reservation-back "Restaurant Reservation System Backend")
+     [Restaurant Reservation System Backend](https://github.com/JonathanMartin-gif/FC-BackEnd "Restaurant Reservation System Backend")
